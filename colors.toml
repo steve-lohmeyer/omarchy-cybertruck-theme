@@ -1,0 +1,31 @@
+# UI Colors (extended)
+accent = "#8fadee"
+cursor = "#dae6f6"
+
+# Primary colors
+foreground = "#dae6f6"
+background = "#010309"
+
+# Selection colors
+selection_foreground = "#010309"
+selection_background = "#dae6f6"
+
+# Normal colors (ANSI 0-7)
+color0 = "#010309"
+color1 = "#8baaeb"
+color2 = "#94bcfb"
+color3 = "#a5ccff"
+color4 = "#8fadee"
+color5 = "#92b0f1"
+color6 = "#9ac3ff"
+color7 = "#dae6f6"
+
+# Bright colors (ANSI 8-15)
+color8 = "#5f6368"
+color9 = "#abcaff"
+color10 = "#93c6ff"
+color11 = "#a2d7ff"
+color12 = "#adcbff"
+color13 = "#aecdff"
+color14 = "#99cdff"
+color15 = "#d1edff"
