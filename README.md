@@ -6,7 +6,7 @@ Omarchy theme honoring Tesla’s Cybertruck. Dark backgrounds, grey / blue / whi
 **Cybertruck** is an Omarchy theme honoring Tesla's Cybertruck.
 
 Inspired by the Cybertruck, it features:
-- Blacks and stainless steel inpsired grays
+- Blacks and stainless steel inspired grays
 - High-quality wallpapaers from Tesla and others that highlight the unique design of the Cybertruck
 
 ## Installation
