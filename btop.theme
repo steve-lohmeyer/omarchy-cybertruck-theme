@@ -8,7 +8,7 @@ theme[main_fg]="#dae6f6"
 theme[title]="#dae6f6"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#8fadee"
+theme[hi_fg]="#fe632d"
 
 # Background color of selected item in processes box
 theme[selected_bg]="#dae6f6"
@@ -40,7 +40,7 @@ theme[div_line]="#5f6368"
 # Temperature graph color (Green -> Yellow -> Red)
 theme[temp_start]="#94bcfb"
 theme[temp_mid]="#a5ccff"
-theme[temp_end]="#8baaeb"
+theme[temp_end]="#fe632d"
 
 # CPU graph colors (Teal -> Blue -> Purple)
 theme[cpu_start]="#9ac3ff"

@@ -5,7 +5,7 @@ foreground = "#dae6f6"
 
 [colors.normal]
 black   = "#010309"
-red     = "#8baaeb"
+red     = "#fe632d"
 green   = "#94bcfb"
 yellow  = "#a5ccff"
 blue    = "#8fadee"
@@ -15,7 +15,7 @@ white   = "#dae6f6"
 
 [colors.bright]
 black   = "#5f6368"
-red     = "#abcaff"
+red     = "#e31937"
 green   = "#93c6ff"
 yellow  = "#a2d7ff"
 blue    = "#adcbff"
